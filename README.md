@@ -1,3 +1,3 @@
 # vulkano-guide
 
-Examples described in ([Vulkano Guide][http://vulkano.rs/guide/introduction]), and some more.
+Examples described in [Vulkano Guide](http://vulkano.rs/guide/introduction), and some more.
