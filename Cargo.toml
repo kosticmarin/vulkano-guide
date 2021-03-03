@@ -9,6 +9,7 @@ edition = "2018"
 [dependencies]
 vulkano = "0.20.0"
 vulkano-shaders = "0.20.0"
+image = "0.23.14"
 
 [[bin]]
 name = "initialization"
@@ -21,3 +22,7 @@ path = "src/bufops/main.rs"
 [[bin]]
 name = "bufops_simd"
 path = "src/bufops_simd/main.rs"
+
+[[bin]]
+name = "image"
+path = "src/image/main.rs"
