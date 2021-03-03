@@ -26,3 +26,7 @@ path = "src/bufops_simd/main.rs"
 [[bin]]
 name = "image"
 path = "src/image/main.rs"
+
+[[bin]]
+name = "triangle"
+path = "src/triangle/main.rs"
